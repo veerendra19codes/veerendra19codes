@@ -4,12 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Web Developer(MERN)
 ------------------------------
 
-Passionate Full Stack Web Developer specializing in the MERN (MongoDB, Express.js, React.js, Node.js) stack. Skilled in both front-end and back-end development, with a keen eye for user experience and a commitment to creating seamless, responsive, and visually appealing interfaces. Skilled at problem-solving and collaborating with cross-functional teams to deliver high-quality software solutions. Continuously seeking to stay updated of industry trends and incorporate best practices into development processes. Eager to contribute innovative ideas and drive projects to successful completion.
+Passionate Full Stack Developer specializing in the MERN (MongoDB, Express.js, React.js, Node.js) stack, React-Native, Nextjs, Flask, Django, Golang, Springboot, Docker, Kubernetes, AWS, Postman. Skilled in both front-end and back-end development, with a keen eye for user experience and a commitment to creating seamless, responsive, and visually appealing interfaces. Skilled at problem-solving and collaborating with cross-functional teams to deliver high-quality software solutions. Continuously seeking to stay updated of industry trends and incorporate best practices into development processes. Eager to contribute innovative ideas and drive projects to successful completion.
 
 * 🌍  I'm based in Mumbai, India
 * 🖥️  See my portfolio at [My Portfolio](https://veerendragportfolio.vercel.app/)
 * ✉️  You can contact me at [veerendragumate@gmail.com](mailto:veerendragumate@gmail.com)
-* 🧠  I'm learning Nextjs
 * 🤝  I'm open to collaborating on Freelance Projects, Open Source Projects and much more
 
 ### Skills
