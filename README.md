@@ -1,15 +1,12 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Veerendra
 =================================================================================================================================
 
-Full Stack Web Developer(MERN)
+Software Developer | Java | Spring Boot | MERN | Nextjs
 ------------------------------
 
-Passionate Full Stack Developer specializing in the MERN (MongoDB, Express.js, React.js, Node.js) stack, React-Native, Nextjs, Flask, Django, Golang, Springboot, Docker, Kubernetes, AWS, Postman. Skilled in both front-end and back-end development, with a keen eye for user experience and a commitment to creating seamless, responsive, and visually appealing interfaces. Skilled at problem-solving and collaborating with cross-functional teams to deliver high-quality software solutions.
-
 * 🌍  I'm based in Mumbai, India
-* 🖥️  See my portfolio at [My Portfolio](https://veerendragportfolio.vercel.app/)
+* 🖥️  See my portfolio at [My Portfolio](https://veerendragumate.vercel.app/)
 * ✉️  You can contact me at [veerendragumate@gmail.com](mailto:veerendragumate@gmail.com)
-* 🤝  I'm open to collaborating on Freelance Projects, Open Source Projects and much more
 
 ### Skills
 
